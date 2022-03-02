@@ -1,0 +1,6 @@
+{
+    "platformName": "Android",
+    "appium:deviceName": "emulator-5554", 
+    "appium:appPackage": "com.android.chrome",
+    "appium:appActivity": "com.google.android.apps.chrome.Main"
+}
